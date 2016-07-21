@@ -1,0 +1,8 @@
+s1: this reuns NW to SE across the image, and traces are relatively sub parallel, and easy to distinguish
+s2: runs SW to NE, and is much harder to depict
+
+there is a 3rd set, perhaps, that runs parallel with s2, but has an alteration zone 
+it appears as though s1 predates s2, not because of offset joints, but because some of the blocks
+truncate s2 joints. More to the point, when I zoom in, it's actually pretty hard to tell s2 and s3
+apart. s2 is perhaps more linear, whereas s3 has more curvature, but the orientations are 
+similar. For this reason, probably just best to look at the total density. 
